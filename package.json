@@ -1,0 +1,18 @@
+{
+  "name": "bullCow",
+  "version": "0.0.0",
+  "description": "Bull cow is a guessing game.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "John Ejike-Nwogu",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "express": "3.4.x"
+  },
+  "engine": "node >= v0.10.18"
+}

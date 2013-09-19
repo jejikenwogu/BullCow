@@ -1,0 +1,28 @@
+{
+  "name": "bullCow",
+  "version": "0.0.0",
+  "authors": [
+    "John Ejike-Nwogu"
+  ],
+  "description": "a game",
+  "keywords": [
+    "game"
+  ],
+  "private": true,
+  "dependencies": {
+    "jquery": "2.0.x",
+    "backbone": "1.0.x",
+    "requirejs": "2.1.x",
+    "requirejs-text": "2.0.x",
+    "handlebars": "1.0.x",
+    "bootstrap": "3.0.x",
+    "underscore": "1.5.x"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"item",
+				"item"
+			],
+			[
+				"appen",
+				"appendItem"
+			],
+			[
+				"add",
+				"addItem"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 380,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/main.js",
+			"settings":
+			{
+				"buffer_size": 255,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "define([\n  'jquery',\n  'underscore',\n  'backbone'\n], function($, _, Backbone) {\n\n});",
+			"file": "app/js/app.js",
+			"file_size": 0,
+			"file_write_time": 130238306420000000,
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jejikenwogu/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 351,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jejikenwogu/Documents/workspace/bullCow/app/bower_components/requirejs/require.js",
+		"/Users/jejikenwogu/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jejikenwogu/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/jejikenwogu/Documents/workspace/exampleBackboneApp1/backbonetutorials/examples/nodejs-mongodb-mongoose-restify/Gruntfile.js",
+		"/Users/jejikenwogu/Documents/workspace/poker/client-android/include/thirdparty/facebook-android/gen/R.java.d",
+		"/Users/jejikenwogu/Documents/workspace/poker/fbpoker/include/class/Achievements.php",
+		"/Users/jejikenwogu/Documents/workspace/poker/fbpoker/include/class/ReturnToLobby.php",
+		"/Users/jejikenwogu/Documents/workspace/poker/client-android/res/layout/buychips_content.xml.BACKUP.13929.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"unrender",
+			"delete",
+			"ItemView",
+			"model",
+			"ul",
+			"addItem",
+			"inden",
+			"js",
+			"java"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/jejikenwogu/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								337,
+								337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "bullCow.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"returntolobby",
+				"fbpoker/include/class/ReturnToLobby.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"factory",
+				"factory"
+			],
+			[
+				"flashSaleEligi",
+				"flashSaleEligible"
+			]
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
